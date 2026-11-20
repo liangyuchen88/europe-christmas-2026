@@ -1,6 +1,6 @@
 # ❄️ Winter Wander · Europe Christmas Trip 2026
 
-A responsive, interactive **14-day Christmas trip website** for sharing with friends.
+A responsive, interactive **14-day Christmas trip website for two travelers**, built to share with friends.
 
 **13–26 December 2026** · Czechia → Austria → Hungary → Finland
 
@@ -12,7 +12,8 @@ A responsive, interactive **14-day Christmas trip website** for sharing with fri
 - Interactive OpenStreetMap/Leaflet travel map
 - Google Maps links for locations and sights
 - Accommodation area summaries (no private apartment numbers or booking references)
-- Updated Lapland bookings for 24–25 December and confirmed 16–18 December transport changes
+- Confirmed transport for two travelers: 13 Dec easyJet U25629 Newcastle → Prague; 16 Dec FlixBus Prague → Český Krumlov; 17 Dec FlixBus Český Krumlov → Linz and IC 645 Linz → Vienna; 20 Dec FlixBus Vienna → Budapest (traveller confirmed both tickets purchased)
+- Updated Lapland bookings for 24–25 December and 18 Dec Hallstatt/Schloss Ort guided day tour (the provided tour confirmation screenshot shows one adult; check second booking separately)
 - Travel warnings, local checklist saved in the viewer's own browser
 - Share URL, add the trip to a calendar, and print/save PDF
 - No build step, no backend, no API keys
@@ -28,7 +29,7 @@ The above URL is the *expected* Pages address; it is not active until publicatio
 
 ## Source notes
 
-Itinerary is based on the traveller's uploaded 10-page `Europe_Christmas_Trip_2026_1213-1226.pdf` and updated booking screenshots through 20 November 2026. Unconfirmed train/shuttle schedules, tickets, and attraction openings are marked accordingly; the page is a plan, not a confirmed booking itinerary.
+Itinerary is based on the traveller's uploaded 10-page `Europe_Christmas_Trip_2026_1213-1226.pdf` and updated booking screenshots through 20 November 2026. Individual unverified flights, tour-participant counts and attraction opening details are marked accordingly; transport bookings may be confirmed by traveller statements rather than attached confirmation documents.
 
 Images displayed from Unsplash (with source credits linked in footer) and map tiles from © OpenStreetMap contributors. Requires internet access to load external imagery, Google Fonts, map library, and map tiles; core itinerary still works without the map.
 
@@ -41,3 +42,7 @@ This is a **public sharing edition**. It deliberately does not include booking c
 - IC 645: Linz Hbf 13:32 → Wien Hbf 15:03, Class 1, coach 6, seat 136 (purchased; traveller must generate e-tickets).
 - Only **32 minutes between arrival and departure**, and the bus stop and train station are distinct locations. Check the pedestrian transfer route and delay contingency.
 - The itinerary now visits Hallstatt on **18 December** as a Vienna-origin guided day tour, rather than attempting it between CK and Vienna on 17 December.
+
+## Two-person trip note
+
+The travellers confirm all **uploaded transport tickets** are purchased for both participants. Some screenshots display only one traveller's booking detail or seat number, so the public site does not infer that both have identical seat assignments. The 18 December Klook tour screenshot shows one adult; check whether the second adult is covered by a separate confirmation. Do not publish booking codes, passenger names, or private ticket screenshots.
