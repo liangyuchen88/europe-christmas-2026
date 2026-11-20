@@ -9,8 +9,8 @@ A responsive, interactive **14-day Christmas trip website for two travelers**, b
 - Beautiful photo-led winter theme with animated snow and mobile-friendly design
 - Day-by-day timetable for all **14 days** with country filters
 - Dedicated **Tickets & Transfers** section with bus / train / tour / flight filters, confirmed vs pending labels, departure/arrival points, and Google Maps links
-- Interactive OpenStreetMap/Leaflet travel map
-- Google Maps links for locations and sights
+- Interactive **Google Maps** iframe viewer with clickable destination selector (Prague, Český Krumlov, Linz, Vienna, Hallstatt, Budapest and Rovaniemi)
+- Google Maps links for locations, sights and map directions by trip segment (Central Europe, Vienna–Hallstatt, Finnish Lapland)
 - Accommodation area summaries (no private apartment numbers or booking references)
 - Confirmed transport for two travelers: 13 Dec easyJet U25629 Newcastle → Prague; 16 Dec FlixBus Prague → Český Krumlov; 17 Dec FlixBus Český Krumlov → Linz and IC 645 Linz → Vienna; 20 Dec FlixBus Vienna → Budapest (traveller confirmed both tickets purchased)
 - Updated Lapland bookings for 24–25 December and 18 Dec Hallstatt/Schloss Ort guided day tour (the provided tour confirmation screenshot shows one adult; check second booking separately)
@@ -31,7 +31,7 @@ The above URL is the *expected* Pages address; it is not active until publicatio
 
 Itinerary is based on the traveller's uploaded 10-page `Europe_Christmas_Trip_2026_1213-1226.pdf` and updated booking screenshots through 20 November 2026. Individual unverified flights, tour-participant counts and attraction opening details are marked accordingly; transport bookings may be confirmed by traveller statements rather than attached confirmation documents.
 
-Images displayed from Unsplash (with source credits linked in footer) and map tiles from © OpenStreetMap contributors. Requires internet access to load external imagery, Google Fonts, map library, and map tiles; core itinerary still works without the map.
+Images displayed from Unsplash (with source credits linked in footer); city locations embedded from Google Maps using location-query iframes, with direct Google Maps links as fallback. Google Maps, images and fonts require internet. The itinerary is readable without the map. The embedded iframe is a keyless location-view approach, not the full official Maps Embed API (which requires a Google Maps API key). The external directions links are for geographic orientation and do not replace the booked bus, rail and flight itineraries.
 
 ## Privacy
 
